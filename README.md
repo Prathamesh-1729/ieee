@@ -165,4 +165,3 @@ Theme:
 
 The challenge emphasizes low-latency, on-device audio-visual processing for intelligent smartphone applications under constrained computational resources.
 
-Our team successfully advanced through the initial evaluation rounds and was selected as one of the **three finalist (semi-finalist) teams**, demonstrating the effectiveness of our real-time audio-visual zooming solution under edge-computing constraints.
